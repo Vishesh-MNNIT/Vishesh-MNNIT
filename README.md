@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishesh Agrawal</h1>
 <h3 align="center">Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishesh-mnnit" alt="vishesh-mnnit" /></a> </p>
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **visheshagrawal705@gmail.com**
